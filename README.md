@@ -79,17 +79,17 @@ python ./fan-curve.py
 You can also add these to your .bashrc for quick control on the fan curves
 ```
 fan-gaming() {
-    sudo python3 Fan_Curve.py --profile gaming
-    sudo python3 Fan_Curve.py --daemon
+    sudo python3 fan_curve.py --profile gaming
+    sudo python3 fan_curve.py --daemon
 }
 
 fan-balance() {
-    sudo python3 Fan_Curve.py --profile balanced
-    sudo python3 Fan_Curve.py --daemon
+    sudo python3 fan_curve.py --profile balanced
+    sudo python3 fan_curve.py --daemon
 }
 
 fan-quiet() {
-    sudo python3 Fan_Curve.py --profile quiet
-    sudo python3 Fan_Curve.py --daemon
+    sudo python3 fan_curve.py --profile quiet
+    sudo python3 fan_curve.py --daemon
 }
 ```
