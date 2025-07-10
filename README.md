@@ -71,8 +71,9 @@ make uninstall
 Then Run the Script
 ```
 chmod +x Linuwu-sense-cli.sh
-chmod +x fan-curve
+chmod +x fan-curve.py
 sudo ./Linuwu-sense-cli.sh
+python ./fan-curve.py
 ```
 
 You can also add these to your .bashrc for quick control on the fan curves
