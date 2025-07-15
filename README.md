@@ -70,9 +70,9 @@ make uninstall
 ```
 Then Run the Script
 ```
-chmod +x Linuwu-sense-cli.sh
+chmod +x Linuwu-sense-menu.py
 chmod +x fan-curve.py
-sudo ./Linuwu-sense-cli.sh
+python Linuwu-sense-menu.py
 python ./fan-curve.py
 ```
 
