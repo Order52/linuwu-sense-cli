@@ -10,7 +10,10 @@ This launcher script was developed (with some help from AI) to provide a clean, 
 Here’s what the tool looks like in action:
 
 image
+
+
 <img width="490" height="325" alt="image" src="https://github.com/user-attachments/assets/83cf7180-e3db-4088-9523-5073a368d442" />
+
 
 
 🧩 Features
