@@ -2,7 +2,7 @@
 
 # Module configuration
 MODULE_NAME="linuwu_sense"
-MODULE_PATH="/home/sloppy/.scripts/Acer/PredatorSense/Linuwu-Sense/src/linuwu_sense.ko"
+MODULE_PATH="~/.scripts/Acer/PredatorSense/Linuwu-Sense/src/linuwu_sense.ko"
 
 # SysFS paths
 SYSFS_BASE="/sys/module/linuwu_sense/drivers/platform:acer-wmi/acer-wmi/predator_sense"
