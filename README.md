@@ -9,10 +9,16 @@ This launcher script was developed (with some help from AI) to provide a clean, 
 
 Here’s what the tool looks like in action:
 
-image
+Preview
 
 
 <img width="490" height="325" alt="image" src="https://github.com/user-attachments/assets/83cf7180-e3db-4088-9523-5073a368d442" />
+
+
+
+<img width="315" height="338" alt="image" src="https://github.com/user-attachments/assets/f35fc9c0-80e9-4c4c-aa78-6cc1fe0bac98" />
+
+
 
 
 
