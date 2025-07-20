@@ -27,21 +27,17 @@ Here’s what the tool looks like in action:
 ##  **Predator Key** 
 You can also check out how bind the Predator Key on your keyboard here https://github.com/Order52/Predator-Key
 
-🧩 Features
+# A new Python-based fan control utility is now included. It provides profile-based and dynamic fan control through the Linuwu-Sense interface.
 
-Easily control and monitor:
-
-🌬️ Advanced Fan Curve Control
-
-A new Python-based fan control utility is now included. It provides profile-based and dynamic fan control through the Linuwu-Sense interface.
-
-## **Features:**
+## **Features 🧩 :**
 - 🎮 `gaming` profile: maximum cooling for performance
 - 🌙 `quiet` profile: prioritizes low noise
 - ⚖️ `balanced` profile: optimized for general use
 - 🔁 Daemon mode for continuous monitoring
 - 📊 View current status and configuration
 - 🛠️ Edit config for custom behavior
+- Easily control and monitor:
+- 🌬️ Advanced Fan Curve Control
 
 > Note: All commands require root (`sudo`) for now.
 
@@ -63,13 +59,13 @@ All through a terminal interface, backed by SysFS and requiring root access.
 
     ⚠️ You must load the Linuwu-Sense kernel module before using this script.
 
-🧱 Step 1: Install Kernel Headers
+## 🧱 Step 1: Install Kernel Headers
 
 On Arch Linux:
 ```
 sudo pacman -S linux-headers
 ```
-🛠️ Step 2: Clone and Build the Module
+# 🛠️ Step 2: Clone and Build the Module
 ```
 git clone https://github.com/Order52/linuwu-sense-cli.git
 cd linuwu-sense-cli
@@ -93,7 +89,7 @@ python Linuwu-sense-menu.py
 python ./fan-curve.py
 ```
 
-You can also add these to your .bashrc for quick control on the fan curves
+# You can also add these to your .bashrc for quick control on the fan curves
 ```
 fan-gaming() {
     sudo python3 fan_curve.py --profile gaming
