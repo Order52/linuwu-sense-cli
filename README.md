@@ -5,11 +5,14 @@ A streamlined Bash-based frontend for managing PredatorSense-like features on Li
     Huge thanks to sudo / 0x7375646F for bringing PredatorSense to Linux!
 
 This launcher script was developed (with some help from AI) to provide a clean, user-friendly, menu-driven interface for configuring system-level features via the linuwu_sense kernel module.
-📸 Preview
+
+# Tested on:
+Acer Predator Helios 16 
+Model: PH16-71
+
+## 📸 Preview
 
 Here’s what the tool looks like in action:
-
-Preview
 
 
 <img width="490" height="325" alt="image" src="https://github.com/user-attachments/assets/83cf7180-e3db-4088-9523-5073a368d442" />
@@ -21,6 +24,8 @@ Preview
 
 
 
+##  **Predator Key** 
+You can also check out how bind the Predator Key on your keyboard here https://github.com/Order52/Predator-Key
 
 🧩 Features
 
@@ -30,7 +35,7 @@ Easily control and monitor:
 
 A new Python-based fan control utility is now included. It provides profile-based and dynamic fan control through the Linuwu-Sense interface.
 
-**Features:**
+## **Features:**
 - 🎮 `gaming` profile: maximum cooling for performance
 - 🌙 `quiet` profile: prioritizes low noise
 - ⚖️ `balanced` profile: optimized for general use
